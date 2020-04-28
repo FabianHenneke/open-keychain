@@ -601,7 +601,7 @@
   <string name="api_settings_allowed_keys">Erlaubte Schlüssel</string>
   <string name="api_settings_settings">Einstellungen</string>
   <string name="api_register_title">Zugriff auf OpenKeyChain erlauben?</string>
-  <string name="api_register_text">%smöchte OpenKeychain also Krypto-Provider verwenden. Sie werden weiterhin um Erlaubnis gefragt bevor die App einen Ihrer Schlüssel zur Entschlüsselung verwendet.\n\nSie können diesen Zugriff später im \'Apps\' Menü in OpenKeychain widerrufen.</string>
+  <string name="api_register_text">%s möchte OpenKeychain als Krypto-Provider verwenden. Sie werden weiterhin um Erlaubnis gefragt bevor die App einen Ihrer Schlüssel zur Entschlüsselung verwendet.\n\nSie können diesen Zugriff später im \'Apps\' Menü in OpenKeychain widerrufen.</string>
   <string name="api_register_allow">Zugriff erlauben</string>
   <string name="api_register_disallow">Zugriff verbieten</string>
   <string name="api_register_error_select_key">Bitte einen Schlüssel auswählen!</string>
